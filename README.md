@@ -2,7 +2,7 @@
 <p align="center"> 
   <img width="500px" src="https://github.com/AdityaDomala/indepay/blob/minterdapp/inde%20pay%20(4).png" align="center" alt="Celo" />
  <h2 align="center">INDE PAY</h2>
- <p align="center">Build, deploy, and iterate quickly on decentralized applications using Celo.</p>
+ <p align="center">Exploring the power of Account Abstraction and SocialConnect on Celo to create inclusive and decentralized solutions. 🌐🚀 #Celo #Blockchain #Decentralization</p>
 </p>
   <p align="center">
     <a href="https://github.com/celo-org/celo-composer/graphs/stars">
